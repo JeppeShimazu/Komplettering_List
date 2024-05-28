@@ -1,0 +1,14 @@
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\bin\Debug\net8.0\Komplettering_List.exe
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\bin\Debug\net8.0\Komplettering_List.deps.json
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\bin\Debug\net8.0\Komplettering_List.runtimeconfig.json
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\bin\Debug\net8.0\Komplettering_List.dll
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\bin\Debug\net8.0\Komplettering_List.pdb
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\obj\Debug\net8.0\Komplettering_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\obj\Debug\net8.0\Komplettering_List.AssemblyInfoInputs.cache
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\obj\Debug\net8.0\Komplettering_List.AssemblyInfo.cs
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\obj\Debug\net8.0\Komplettering_List.csproj.CoreCompileInputs.cache
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\obj\Debug\net8.0\Komplettering_List.dll
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\obj\Debug\net8.0\refint\Komplettering_List.dll
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\obj\Debug\net8.0\Komplettering_List.pdb
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\obj\Debug\net8.0\Komplettering_List.genruntimeconfig.cache
+C:\Users\jesper.asplund\Desktop\Visual Studio Projects\Komplettering_List\Komplettering_List\obj\Debug\net8.0\ref\Komplettering_List.dll
